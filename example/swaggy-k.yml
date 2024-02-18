@@ -1,0 +1,11 @@
+---
+spec_uri: specification/google.yml
+name: SwaggyKExample
+version: 0.0.1-pre.0
+contact:
+  name: Cliffano Subagio
+  url: https://github.com/cliffano/swaggy-k
+  email: blah@cliffano.com
+base_dir:
+  github_actions: /home/runner/work/swaggy-k/swaggy-k/example/
+  local: /Users/cliffano/dev/workspace-studio/swaggy-k/example/

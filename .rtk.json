@@ -1,0 +1,16 @@
+{
+  "tagFormat": "v{version}",
+  "resources": [
+    {
+      "path": "src/Makefile-swaggy-k",
+      "type": "makefile",
+      "params": {
+        "variable": "SWAGGY_K_VERSION"
+      }
+    },
+    {
+      "path": "CHANGELOG.md",
+      "type": "keep-a-changelog"
+    }
+  ]
+}
