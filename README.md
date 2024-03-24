@@ -60,10 +60,3 @@ The following targets are available:
 | doc-latest | Generate API documentation locally as the latest version |
 | doc-version | Generate API documentation locally as the application's version |
 | doc-publish | Publish documentation via GitHub Pages |
-
-Colophon
---------
-
-Related Projects:
-
-* [openapi-azureipranges](http://github.com/cliffano/openapi-azureipranges) - OpenAPI specification and a set of generated API clients for [Azure IP Ranges](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
